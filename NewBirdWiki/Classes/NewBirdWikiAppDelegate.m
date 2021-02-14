@@ -24,7 +24,7 @@
     // Override point for customization after application launch.
     
     // Add the navigation controller's view to the window and display.
-    [self.window addSubview:tabBarController.view];
+    [self.window setRootViewController:tabBarController];
     [self.window makeKeyAndVisible];
 	
 	[UIApplication sharedApplication].statusBarHidden = NO;

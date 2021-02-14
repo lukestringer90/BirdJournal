@@ -331,7 +331,6 @@
 		F5FE8AC125D9B4E7007E6671 /* Lanceolated_Warbler.html in Resources */ = {isa = PBXBuildFile; fileRef = F5FE84EA25D9B485007E6671 /* Lanceolated_Warbler.html */; };
 		F5FE8AC225D9B4E7007E6671 /* 220px-Orvani_(1).JPG in Resources */ = {isa = PBXBuildFile; fileRef = F5FE84EB25D9B485007E6671 /* 220px-Orvani_(1).JPG */; };
 		F5FE8AC325D9B4E7007E6671 /* Icterine_Warbler.html in Resources */ = {isa = PBXBuildFile; fileRef = F5FE84EC25D9B485007E6671 /* Icterine_Warbler.html */; };
-		F5FE8AC425D9B4E7007E6671 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F5FE84ED25D9B485007E6671 /* main.m */; };
 		F5FE8AC525D9B4E7007E6671 /* Black_Scoter.html in Resources */ = {isa = PBXBuildFile; fileRef = F5FE84EE25D9B485007E6671 /* Black_Scoter.html */; };
 		F5FE8AC625D9B4E7007E6671 /* 220px-Northern_wheatear_male09.JPG in Resources */ = {isa = PBXBuildFile; fileRef = F5FE84EF25D9B485007E6671 /* 220px-Northern_wheatear_male09.JPG */; };
 		F5FE8AC725D9B4E7007E6671 /* 220px-Vireo_olivaceus_-Madison_-Wisconsin_-USA-8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5FE84F025D9B485007E6671 /* 220px-Vireo_olivaceus_-Madison_-Wisconsin_-USA-8.jpg */; };
@@ -850,7 +849,7 @@
 		F5FE8CC825D9B4E7007E6671 /* Short-billed_Dowitcher.html in Resources */ = {isa = PBXBuildFile; fileRef = F5FE86F525D9B4BD007E6671 /* Short-billed_Dowitcher.html */; };
 		F5FE8CC925D9B4E7007E6671 /* Royal_Tern.html in Resources */ = {isa = PBXBuildFile; fileRef = F5FE86F625D9B4BD007E6671 /* Royal_Tern.html */; };
 		F5FE8CCA25D9B4E7007E6671 /* 220px-WhiteStorkMap.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = F5FE86F725D9B4BD007E6671 /* 220px-WhiteStorkMap.svg.png */; };
-		F5FE8CCB25D9B4E7007E6671 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = F5FE86F825D9B4BD007E6671 /* icon.png */; };
+		F5FE8CCB25D9B4E7007E6671 /* icon-1.png in Resources */ = {isa = PBXBuildFile; fileRef = F5FE86F825D9B4BD007E6671 /* icon-1.png */; };
 		F5FE8CCC25D9B4E7007E6671 /* 220px-GarrulusLeucotisKeulemans.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5FE86F925D9B4BD007E6671 /* 220px-GarrulusLeucotisKeulemans.jpg */; };
 		F5FE8CCD25D9B4E7007E6671 /* 220px-SpanishSparrowMap.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = F5FE86FA25D9B4BD007E6671 /* 220px-SpanishSparrowMap.svg.png */; };
 		F5FE8CCE25D9B4E7007E6671 /* 220px-Lanius_isabellinusIbis1867P005A.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5FE86FB25D9B4BD007E6671 /* 220px-Lanius_isabellinusIbis1867P005A.jpg */; };
@@ -1116,7 +1115,6 @@
 		F5FE8DD225D9B4E7007E6671 /* 170px-Perdix_perdix_Sri_Mesh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5FE880125D9B4D0007E6671 /* 170px-Perdix_perdix_Sri_Mesh.jpg */; };
 		F5FE8DD325D9B4E7007E6671 /* 220px-Turdus_sibiricus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5FE880225D9B4D0007E6671 /* 220px-Turdus_sibiricus.jpg */; };
 		F5FE8DD425D9B4E7007E6671 /* Common_Tern.html in Resources */ = {isa = PBXBuildFile; fileRef = F5FE880325D9B4D0007E6671 /* Common_Tern.html */; };
-		F5FE8DD525D9B4E7007E6671 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = F5FE880425D9B4D0007E6671 /* MainWindow.xib */; };
 		F5FE8DD625D9B4E7007E6671 /* 250px-Falco_rusticolus_white_cropped.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5FE880525D9B4D0007E6671 /* 250px-Falco_rusticolus_white_cropped.jpg */; };
 		F5FE8DD725D9B4E7007E6671 /* 220px-American_Robin-rangemap.gif in Resources */ = {isa = PBXBuildFile; fileRef = F5FE880625D9B4D0007E6671 /* 220px-American_Robin-rangemap.gif */; };
 		F5FE8DD825D9B4E7007E6671 /* 300px-Americangoldie39.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5FE880725D9B4D1007E6671 /* 300px-Americangoldie39.jpg */; };
@@ -1896,7 +1894,6 @@
 		F5FE84EA25D9B485007E6671 /* Lanceolated_Warbler.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = Lanceolated_Warbler.html; path = ../BirdWiki/Lanceolated_Warbler.html; sourceTree = "<group>"; };
 		F5FE84EB25D9B485007E6671 /* 220px-Orvani_(1).JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "220px-Orvani_(1).JPG"; path = "../BirdWiki/220px-Orvani_(1).JPG"; sourceTree = "<group>"; };
 		F5FE84EC25D9B485007E6671 /* Icterine_Warbler.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = Icterine_Warbler.html; path = ../BirdWiki/Icterine_Warbler.html; sourceTree = "<group>"; };
-		F5FE84ED25D9B485007E6671 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ../BirdWiki/main.m; sourceTree = "<group>"; };
 		F5FE84EE25D9B485007E6671 /* Black_Scoter.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = Black_Scoter.html; path = ../BirdWiki/Black_Scoter.html; sourceTree = "<group>"; };
 		F5FE84EF25D9B485007E6671 /* 220px-Northern_wheatear_male09.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "220px-Northern_wheatear_male09.JPG"; path = "../BirdWiki/220px-Northern_wheatear_male09.JPG"; sourceTree = "<group>"; };
 		F5FE84F025D9B485007E6671 /* 220px-Vireo_olivaceus_-Madison_-Wisconsin_-USA-8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "220px-Vireo_olivaceus_-Madison_-Wisconsin_-USA-8.jpg"; path = "../BirdWiki/220px-Vireo_olivaceus_-Madison_-Wisconsin_-USA-8.jpg"; sourceTree = "<group>"; };
@@ -2415,7 +2412,7 @@
 		F5FE86F525D9B4BD007E6671 /* Short-billed_Dowitcher.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = "Short-billed_Dowitcher.html"; path = "../BirdWiki/Short-billed_Dowitcher.html"; sourceTree = "<group>"; };
 		F5FE86F625D9B4BD007E6671 /* Royal_Tern.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = Royal_Tern.html; path = ../BirdWiki/Royal_Tern.html; sourceTree = "<group>"; };
 		F5FE86F725D9B4BD007E6671 /* 220px-WhiteStorkMap.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "220px-WhiteStorkMap.svg.png"; path = "../BirdWiki/220px-WhiteStorkMap.svg.png"; sourceTree = "<group>"; };
-		F5FE86F825D9B4BD007E6671 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = ../BirdWiki/icon.png; sourceTree = "<group>"; };
+		F5FE86F825D9B4BD007E6671 /* icon-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-1.png"; path = "../BirdWiki/icon-1.png"; sourceTree = "<group>"; };
 		F5FE86F925D9B4BD007E6671 /* 220px-GarrulusLeucotisKeulemans.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "220px-GarrulusLeucotisKeulemans.jpg"; path = "../BirdWiki/220px-GarrulusLeucotisKeulemans.jpg"; sourceTree = "<group>"; };
 		F5FE86FA25D9B4BD007E6671 /* 220px-SpanishSparrowMap.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "220px-SpanishSparrowMap.svg.png"; path = "../BirdWiki/220px-SpanishSparrowMap.svg.png"; sourceTree = "<group>"; };
 		F5FE86FB25D9B4BD007E6671 /* 220px-Lanius_isabellinusIbis1867P005A.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "220px-Lanius_isabellinusIbis1867P005A.jpg"; path = "../BirdWiki/220px-Lanius_isabellinusIbis1867P005A.jpg"; sourceTree = "<group>"; };
@@ -2681,7 +2678,6 @@
 		F5FE880125D9B4D0007E6671 /* 170px-Perdix_perdix_Sri_Mesh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "170px-Perdix_perdix_Sri_Mesh.jpg"; path = "../BirdWiki/170px-Perdix_perdix_Sri_Mesh.jpg"; sourceTree = "<group>"; };
 		F5FE880225D9B4D0007E6671 /* 220px-Turdus_sibiricus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "220px-Turdus_sibiricus.jpg"; path = "../BirdWiki/220px-Turdus_sibiricus.jpg"; sourceTree = "<group>"; };
 		F5FE880325D9B4D0007E6671 /* Common_Tern.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = Common_Tern.html; path = ../BirdWiki/Common_Tern.html; sourceTree = "<group>"; };
-		F5FE880425D9B4D0007E6671 /* MainWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MainWindow.xib; path = ../BirdWiki/MainWindow.xib; sourceTree = "<group>"; };
 		F5FE880525D9B4D0007E6671 /* 250px-Falco_rusticolus_white_cropped.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "250px-Falco_rusticolus_white_cropped.jpg"; path = "../BirdWiki/250px-Falco_rusticolus_white_cropped.jpg"; sourceTree = "<group>"; };
 		F5FE880625D9B4D0007E6671 /* 220px-American_Robin-rangemap.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "220px-American_Robin-rangemap.gif"; path = "../BirdWiki/220px-American_Robin-rangemap.gif"; sourceTree = "<group>"; };
 		F5FE880725D9B4D1007E6671 /* 300px-Americangoldie39.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "300px-Americangoldie39.jpg"; path = "../BirdWiki/300px-Americangoldie39.jpg"; sourceTree = "<group>"; };
@@ -4419,7 +4415,7 @@
 				F5FE842825D9B47C007E6671 /* Iberian_Chiffchaff.html */,
 				F5FE86F125D9B4BD007E6671 /* Iceland_Gull.html */,
 				F5FE84CA25D9B483007E6671 /* icon_2.png */,
-				F5FE86F825D9B4BD007E6671 /* icon.png */,
+				F5FE86F825D9B4BD007E6671 /* icon-1.png */,
 				F5FE84EC25D9B485007E6671 /* Icterine_Warbler.html */,
 				F5FE84AA25D9B481007E6671 /* Indigo_Bunting.html */,
 				F5FE867625D9B4B5007E6671 /* Isabelline_Shrike.html */,
@@ -4473,8 +4469,6 @@
 				F5FE895025D9B4E1007E6671 /* Madeiran_Storm-petrel.html */,
 				F5FE850A25D9B487007E6671 /* Magnificent_Frigatebird.html */,
 				F5FE855425D9B48F007E6671 /* Magnolia_Warbler.html */,
-				F5FE84ED25D9B485007E6671 /* main.m */,
-				F5FE880425D9B4D0007E6671 /* MainWindow.xib */,
 				F5FE84B725D9B482007E6671 /* Makolagwa.jpeg */,
 				F5FE86D825D9B4BB007E6671 /* Mallard.html */,
 				F5FE866425D9B4B3007E6671 /* Mandarin_Duck.html */,
@@ -6011,7 +6005,7 @@
 				F5FE8CDF25D9B4E7007E6671 /* Little_Egret.html in Resources */,
 				F5FE8CF825D9B4E7007E6671 /* 250px-Chroicocephalus_ridibundus_(summer).jpg in Resources */,
 				F5FE8B4B25D9B4E7007E6671 /* 220px-Rose-ringed_Parakeet_I_IMG_9797.jpg in Resources */,
-				F5FE8CCB25D9B4E7007E6671 /* icon.png in Resources */,
+				F5FE8CCB25D9B4E7007E6671 /* icon-1.png in Resources */,
 				F5FE8DDB25D9B4E7007E6671 /* Siberian_Stonechat.html in Resources */,
 				F5FE8D7F25D9B4E7007E6671 /* Red_Knot.html in Resources */,
 				F5FE8C5825D9B4E7007E6671 /* 220px-Melanitta_perspicillata.jpg in Resources */,
@@ -6125,7 +6119,6 @@
 				F5FE8F6B25D9B4E7007E6671 /* Black_Lark.html in Resources */,
 				F5FE8DF125D9B4E7007E6671 /* 220px-Luscinia_calliope_2.jpg in Resources */,
 				F5FE8D3F25D9B4E7007E6671 /* 220px-Charadrius_asiaticus.jpg in Resources */,
-				F5FE8DD525D9B4E7007E6671 /* MainWindow.xib in Resources */,
 				F5FE8A1825D9B4E7007E6671 /* 220px-Limosa_haemastica_-Rio_Grande,_Rio_Gande_do_Sul,_Brazil-8.jpg in Resources */,
 				F5FE8EBE25D9B4E7007E6671 /* Black_Kite.html in Resources */,
 				F5FE8CB225D9B4E7007E6671 /* 250px-Hylocichla_mustelina_(cropped).jpg in Resources */,
@@ -6421,7 +6414,6 @@
 				A3CE04B5135C6A14002C8158 /* ChangeNumberSeenViewController.m in Sources */,
 				A3CE060E135C9489002C8158 /* SightingMapViewController.m in Sources */,
 				A3CE06E1135CC2C2002C8158 /* SightingPlaceMark.m in Sources */,
-				F5FE8AC425D9B4E7007E6671 /* main.m in Sources */,
 				A327A95A135E16F000F7B7A2 /* ExistingSightingViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
