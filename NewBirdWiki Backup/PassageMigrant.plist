@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>--Alpha_Keys--</key>
+	<array>
+		<string>A</string>
+		<string>B</string>
+		<string>C</string>
+		<string>D</string>
+		<string>E</string>
+		<string>F</string>
+		<string>G</string>
+		<string>H</string>
+		<string>J</string>
+		<string>K</string>
+		<string>L</string>
+		<string>M</string>
+		<string>N</string>
+		<string>P</string>
+		<string>R</string>
+		<string>S</string>
+		<string>W</string>
+		<string>Y</string>
+	</array>
+	<key>A</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Arctic Skua</string>
+			<key>Group_Name</key>
+			<string>Skuas</string>
+			<key>Latin_Name</key>
+			<string>Stercorarius parasiticus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Arctic_Skua</string>
+		</dict>
+	</array>
+	<key>B</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Balearic Shearwater</string>
+			<key>Group_Name</key>
+			<string>Shearwaters and petrels</string>
+			<key>Latin_Name</key>
+			<string>Puffinus mauretanicus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Balearic_Shearwater</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Black Kite</string>
+			<key>Group_Name</key>
+			<string>Buzzards, kites and allies</string>
+			<key>Latin_Name</key>
+			<string>Milvus migrans</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Black_Kite</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Buff-breasted Sandpiper</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Tryngites subruficollis</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Buff-breasted_Sandpiper</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Black-tailed Godwit</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Limosa limosa</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Black-tailed_Godwit</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Bar-tailed Godwit</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Limosa lapponica</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Bar-tailed_Godwit</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Black Redstart</string>
+			<key>Group_Name</key>
+			<string>Thrushes</string>
+			<key>Latin_Name</key>
+			<string>Phoenicurus ochruros</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Resident Breeder</string>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Black_Redstart</string>
+		</dict>
+	</array>
+	<key>C</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Common Spoonbill</string>
+			<key>Group_Name</key>
+			<string>Ibises and spoonbills</string>
+			<key>Latin_Name</key>
+			<string>Platalea leucorodia</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Common_Spoonbill</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Common Buzzard</string>
+			<key>Group_Name</key>
+			<string>Buzzards, kites and allies</string>
+			<key>Latin_Name</key>
+			<string>Buteo buteo</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Common_Buzzard</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Common Crane</string>
+			<key>Group_Name</key>
+			<string>Cranes</string>
+			<key>Latin_Name</key>
+			<string>Grus grus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Common_Crane</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Curlew Sandpiper</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Calidris ferruginea</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Curlew_Sandpiper</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Common Greenshank</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Tringa nebularia</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Common_Greenshank</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Common Sandpiper</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Actitis hypoleucos</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Common_Sandpiper</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Common Gull</string>
+			<key>Group_Name</key>
+			<string>Gulls</string>
+			<key>Latin_Name</key>
+			<string>Larus canus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Common_Gull</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Common Firecrest</string>
+			<key>Group_Name</key>
+			<string>Kinglets</string>
+			<key>Latin_Name</key>
+			<string>Regulus ignicapillus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Common_Firecrest</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Common Redpoll</string>
+			<key>Group_Name</key>
+			<string>Finches</string>
+			<key>Latin_Name</key>
+			<string>Carduelis flammea</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Mealy_Redpoll</string>
+		</dict>
+	</array>
+	<key>D</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Dunlin</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Calidris alpina</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Dunlin</string>
+		</dict>
+	</array>
+	<key>E</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>European Honey-Buzzard</string>
+			<key>Group_Name</key>
+			<string>Buzzards, kites and allies</string>
+			<key>Latin_Name</key>
+			<string>Pernis apivorus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Summer Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>European_Honey-buzzard</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Eurasian Sparrowhawk</string>
+			<key>Group_Name</key>
+			<string>Buzzards, kites and allies</string>
+			<key>Latin_Name</key>
+			<string>Accipiter nisus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Eurasian_Sparrowhawk</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Eurasian Golden Plover</string>
+			<key>Group_Name</key>
+			<string>Plovers and lapwings</string>
+			<key>Latin_Name</key>
+			<string>Pluvialis apricaria</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Eurasian_Golden_Plover</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Eurasian Wryneck</string>
+			<key>Group_Name</key>
+			<string>Woodpeckers</string>
+			<key>Latin_Name</key>
+			<string>Jynx torquilla</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Eurasian_Wryneck</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>European Serin</string>
+			<key>Group_Name</key>
+			<string>Finches</string>
+			<key>Latin_Name</key>
+			<string>Serinus serinus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>European_Serin</string>
+		</dict>
+	</array>
+	<key>F</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Ferruginous Duck</string>
+			<key>Group_Name</key>
+			<string>Ducks, geese and swans</string>
+			<key>Latin_Name</key>
+			<string>Aythya nyroca</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Ferruginous_Duck</string>
+		</dict>
+	</array>
+	<key>G</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Green-winged Teal</string>
+			<key>Group_Name</key>
+			<string>Ducks, geese and swans</string>
+			<key>Latin_Name</key>
+			<string>Anas carolinensis</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Green-winged_Teal</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Great Shearwater</string>
+			<key>Group_Name</key>
+			<string>Shearwaters and petrels</string>
+			<key>Latin_Name</key>
+			<string>Puffinus gravis</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Great_Shearwater</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Great Bittern</string>
+			<key>Group_Name</key>
+			<string>Bitterns, herons and egrets</string>
+			<key>Latin_Name</key>
+			<string>Botaurus stellata</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Great_Bittern</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Grey Heron</string>
+			<key>Group_Name</key>
+			<string>Bitterns, herons and egrets</string>
+			<key>Latin_Name</key>
+			<string>Ardea cinerea</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Grey_Heron</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Grey Plover</string>
+			<key>Group_Name</key>
+			<string>Plovers and lapwings</string>
+			<key>Latin_Name</key>
+			<string>Pluvialis squatarola</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Grey_Plover</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Green Sandpiper</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Tringa ochropus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Green_Sandpiper</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Great Skua</string>
+			<key>Group_Name</key>
+			<string>Skuas</string>
+			<key>Latin_Name</key>
+			<string>Stercorarius skua</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Great_Skua</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Great Black-backed Gull</string>
+			<key>Group_Name</key>
+			<string>Gulls</string>
+			<key>Latin_Name</key>
+			<string>Larus marinus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Great_Black-backed_Gull</string>
+		</dict>
+	</array>
+	<key>H</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Hen Harrier</string>
+			<key>Group_Name</key>
+			<string>Buzzards, kites and allies</string>
+			<key>Latin_Name</key>
+			<string>Circus cyaneus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Hen_Harrier</string>
+		</dict>
+	</array>
+	<key>J</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Jack Snipe</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Lymnocryptes minimus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Jack_Snipe</string>
+		</dict>
+	</array>
+	<key>K</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Kentish Plover</string>
+			<key>Group_Name</key>
+			<string>Plovers and lapwings</string>
+			<key>Latin_Name</key>
+			<string>Charadrius alexandrinus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Kentish_Plover</string>
+		</dict>
+	</array>
+	<key>L</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Little Egret</string>
+			<key>Group_Name</key>
+			<string>Bitterns, herons and egrets</string>
+			<key>Latin_Name</key>
+			<string>Egretta garzetta</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Little_Egret</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Little Stint</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Calidris minuta</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Little_Stint</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Long-tailed Skua</string>
+			<key>Group_Name</key>
+			<string>Skuas</string>
+			<key>Latin_Name</key>
+			<string>Stercorarius longicaudus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Long-tailed_Skua</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Lesser Black-backed Gull</string>
+			<key>Group_Name</key>
+			<string>Gulls</string>
+			<key>Latin_Name</key>
+			<string>Larus fuscus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Lesser_Black-backed_Gull</string>
+		</dict>
+	</array>
+	<key>M</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Montagu's Harrier</string>
+			<key>Group_Name</key>
+			<string>Buzzards, kites and allies</string>
+			<key>Latin_Name</key>
+			<string>Circus pygargus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Summer Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Montagu's_Harrier</string>
+		</dict>
+	</array>
+	<key>N</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Northern Fulmar</string>
+			<key>Group_Name</key>
+			<string>Shearwaters and petrels</string>
+			<key>Latin_Name</key>
+			<string>Fulmarus glacialis</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Northern_Fulmar</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Northern Gannet</string>
+			<key>Group_Name</key>
+			<string>Gannets</string>
+			<key>Latin_Name</key>
+			<string>Morus bassanus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Summer Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Northern_Gannet</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Northern Wheatear</string>
+			<key>Group_Name</key>
+			<string>Thrushes</string>
+			<key>Latin_Name</key>
+			<string>Oenanthe oenanthe</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Summer Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Northern_Wheatear</string>
+		</dict>
+	</array>
+	<key>P</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Purple Heron</string>
+			<key>Group_Name</key>
+			<string>Bitterns, herons and egrets</string>
+			<key>Latin_Name</key>
+			<string>Ardea purpurea</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Purple_Heron</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Pectoral Sandpiper</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Calidris melanotos</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Pectoral_Sandpiper</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Purple Sandpiper</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Calidris maritima</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Purple_Sandpiper</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Pomarine Skua</string>
+			<key>Group_Name</key>
+			<string>Skuas</string>
+			<key>Latin_Name</key>
+			<string>Stercorarius pomarinus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Pomarine_Skua</string>
+		</dict>
+	</array>
+	<key>R</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Red-crested Pochard</string>
+			<key>Group_Name</key>
+			<string>Ducks, geese and swans</string>
+			<key>Latin_Name</key>
+			<string>Netta rufina</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+				<string>Introduced</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Red-crested_Pochard</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Ring-necked Duck</string>
+			<key>Group_Name</key>
+			<string>Ducks, geese and swans</string>
+			<key>Latin_Name</key>
+			<string>Aythya collaris</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Ring-necked_Duck</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Red Knot</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Calidris canutus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Red_Knot</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Ruff</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Philomachus pugnax</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Ruff_(bird)</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Ring-billed Gull</string>
+			<key>Group_Name</key>
+			<string>Gulls</string>
+			<key>Latin_Name</key>
+			<string>Larus delawarensis</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Ring-billed_Gull</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Red-backed Shrike</string>
+			<key>Group_Name</key>
+			<string>Shrikes</string>
+			<key>Latin_Name</key>
+			<string>Lanius collurio</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Red-backed_Shrike</string>
+		</dict>
+	</array>
+	<key>S</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Surf Scoter</string>
+			<key>Group_Name</key>
+			<string>Ducks, geese and swans</string>
+			<key>Latin_Name</key>
+			<string>Melanitta perspicillata</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Surf_Scoter</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Sooty Shearwater</string>
+			<key>Group_Name</key>
+			<string>Shearwaters and petrels</string>
+			<key>Latin_Name</key>
+			<string>Puffinus griseus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Sooty_Shearwater</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Sanderling</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Calidris alba</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Sanderling</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Spotted Redshank</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Tringa erythropus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Spotted_Redshank</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Shore Lark</string>
+			<key>Group_Name</key>
+			<string>Larks</string>
+			<key>Latin_Name</key>
+			<string>Eremophila alpestris</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Winter Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Shore_Lark</string>
+		</dict>
+	</array>
+	<key>W</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>White Stork</string>
+			<key>Group_Name</key>
+			<string>Storks</string>
+			<key>Latin_Name</key>
+			<string>Ciconia ciconia</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>White_Stork</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Western Marsh Harrier</string>
+			<key>Group_Name</key>
+			<string>Buzzards, kites and allies</string>
+			<key>Latin_Name</key>
+			<string>Circus aeruginosus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Western_Marsh_Harrier</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Wood Sandpiper</string>
+			<key>Group_Name</key>
+			<string>Sandpipers and allies</string>
+			<key>Latin_Name</key>
+			<string>Tringa glareola</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Wood_Sandpiper</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Woodlark</string>
+			<key>Group_Name</key>
+			<string>Larks</string>
+			<key>Latin_Name</key>
+			<string>Lullula arborea</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Resident Breeder</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Woodlark</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Whinchat</string>
+			<key>Group_Name</key>
+			<string>Thrushes</string>
+			<key>Latin_Name</key>
+			<string>Saxicola rubetra</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Summer Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Whinchat</string>
+		</dict>
+	</array>
+	<key>Y</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Yellow-legged Gull</string>
+			<key>Group_Name</key>
+			<string>Gulls</string>
+			<key>Latin_Name</key>
+			<string>Larus michahellis</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Summer Visitor</string>
+				<string>Passage Migrant</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Yellow-legged_Gull</string>
+		</dict>
+	</array>
+</dict>
+</plist>

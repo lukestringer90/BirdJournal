@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>--Alpha_Keys--</key>
+	<array>
+		<string>C</string>
+		<string>E</string>
+		<string>G</string>
+		<string>L</string>
+		<string>M</string>
+		<string>R</string>
+		<string>S</string>
+		<string>W</string>
+	</array>
+	<key>C</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Canada Goose</string>
+			<key>Group_Name</key>
+			<string>Ducks, geese and swans</string>
+			<key>Latin_Name</key>
+			<string>Branta canadensis</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Introduced</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Canada_Goose</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Common Pheasant</string>
+			<key>Group_Name</key>
+			<string>Pheasants, partridges and quail</string>
+			<key>Latin_Name</key>
+			<string>Phasianus colchicus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Introduced</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Common_Pheasant</string>
+		</dict>
+	</array>
+	<key>E</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Egyptian Goose</string>
+			<key>Group_Name</key>
+			<string>Ducks, geese and swans</string>
+			<key>Latin_Name</key>
+			<string>Alopochen aegyptiaca</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Introduced</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Egyptian_Goose</string>
+		</dict>
+	</array>
+	<key>G</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Golden Pheasant</string>
+			<key>Group_Name</key>
+			<string>Pheasants, partridges and quail</string>
+			<key>Latin_Name</key>
+			<string>Chrysolophus pictus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Introduced</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Golden_Pheasant</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Great Bustard</string>
+			<key>Group_Name</key>
+			<string>Bustards</string>
+			<key>Latin_Name</key>
+			<string>Otis tarda</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Introduced</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Great_Bustard</string>
+		</dict>
+	</array>
+	<key>L</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Little Owl</string>
+			<key>Group_Name</key>
+			<string>Typical owls</string>
+			<key>Latin_Name</key>
+			<string>Athene noctua</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Introduced</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Little_Owl</string>
+		</dict>
+	</array>
+	<key>M</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Mandarin Duck</string>
+			<key>Group_Name</key>
+			<string>Ducks, geese and swans</string>
+			<key>Latin_Name</key>
+			<string>Aix galericulata</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Introduced</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Mandarin_Duck</string>
+		</dict>
+	</array>
+	<key>R</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Red-crested Pochard</string>
+			<key>Group_Name</key>
+			<string>Ducks, geese and swans</string>
+			<key>Latin_Name</key>
+			<string>Netta rufina</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Rare/Vagrant</string>
+				<string>Passage Migrant</string>
+				<string>Introduced</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Red-crested_Pochard</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Red-legged Partridge</string>
+			<key>Group_Name</key>
+			<string>Pheasants, partridges and quail</string>
+			<key>Latin_Name</key>
+			<string>Alectoris rufa</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Introduced</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Red-legged_Partridge</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Rose-ringed Parakeet</string>
+			<key>Group_Name</key>
+			<string>Parrots</string>
+			<key>Latin_Name</key>
+			<string>Psittacula krameri</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Introduced</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Rose-ringed_Parakeet</string>
+		</dict>
+		<dict>
+			<key>Common_Name</key>
+			<string>Ruddy Duck</string>
+			<key>Group_Name</key>
+			<string>Ducks, geese and swans</string>
+			<key>Latin_Name</key>
+			<string>Oxyura jamaicensis</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Introduced</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Ruddy_Duck</string>
+		</dict>
+	</array>
+	<key>S</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Snow Goose</string>
+			<key>Group_Name</key>
+			<string>Ducks, geese and swans</string>
+			<key>Latin_Name</key>
+			<string>Anser caerulescens</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Introduced</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Snow_Goose</string>
+		</dict>
+	</array>
+	<key>W</key>
+	<array>
+		<dict>
+			<key>Common_Name</key>
+			<string>Western Capercaillie</string>
+			<key>Group_Name</key>
+			<string>Grouse</string>
+			<key>Latin_Name</key>
+			<string>Tetrao urogallus</string>
+			<key>Status_Categories</key>
+			<array>
+				<string>Resident Breeder</string>
+				<string>Introduced</string>
+			</array>
+			<key>URL_Suffix</key>
+			<string>Western_Capercaillie</string>
+		</dict>
+	</array>
+</dict>
+</plist>
